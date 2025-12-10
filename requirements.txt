@@ -1,0 +1,22 @@
+# BigBountyRecon Python Requirements
+# ===================================
+# 
+# Python Version: 3.6 or higher
+#
+# All dependencies are part of Python standard library.
+# No external packages need to be installed via pip for running the application.
+#
+# Standard Library Modules Used:
+# ------------------------------
+# - tkinter (GUI framework)
+# - tkinter.ttk (themed widgets)
+# - tkinter.messagebox (message dialogs)
+# - webbrowser (opening URLs in browser)
+# - urllib.parse (URL encoding/parsing)
+# - platform (platform detection for Chrome browser)
+#
+# Build Dependencies (for creating executables):
+# -----------------------------------------------
+# Install these only if you want to build executables:
+# pip install pyinstaller
+
